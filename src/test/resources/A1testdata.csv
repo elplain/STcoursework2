@@ -1,0 +1,3 @@
+username,password,shouldSucceed
+standard_user,secret_sauce,true
+standard_user,secret_pass,false
