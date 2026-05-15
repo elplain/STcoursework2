@@ -1,0 +1,5 @@
+username,password,shouldSucceed
+standard_user,secret_sauce,true
+standard_user,secret_pass,false
+locked_out_user,secret_sauce,false
+performance_glitch_user,secret_sauce,true

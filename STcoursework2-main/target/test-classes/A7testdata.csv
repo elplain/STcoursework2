@@ -1,0 +1,8 @@
+username,password,shouldSucceed1,shouldSucceed2,shouldSucceed3
+standard_user,secret_sauce,true,true,true
+performance_glitch_user,secret_sauce,true,true,true
+
+
+
+
+
